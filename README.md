@@ -16,3 +16,5 @@ Tambien puedes añadirle habilidades, objetos, Debilidades, Mascotas o aficiones
 
 La aplicación dispone de control de usuarios para poder crear y modificar personajes, aunque puedes visualizar los personajes de todos los personajes a no ser que sean privados.
 Solo puedes modificar tus propios personajes.
+
+NOTA: La parte de descarga en PDF aún no está hecha.
