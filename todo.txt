@@ -1,8 +1,0 @@
-
-
-Hecho - Cambiar los selects por sus valores reales
-Hecho - En el edit, poner el "selected" correctamente
-Hecho - Cerrar sesión
-Hecho - Ocuparse de toda la seguridad (ediciones/listado)
-Hecho - Al acceder, ir al listado --> BOTÓN LOGUEARSE
-	Hecho - Cada vez que le de a "guardar (Corazón), SI NO ESTÁ REGISTRADO, QUE SALGA UN ADVERTENCIA"
